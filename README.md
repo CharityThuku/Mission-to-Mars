@@ -1,6 +1,6 @@
 # Mission-to-Mars
 ## Overview
-- The purpose of this project was to build an APP to conduct web-scraping of MARS data and create an HTML page to show the results.
+- The purpose of this project was to build an app to conduct web-scraping of MARS data and create an HTML page to show the results.
 
 ## Results
 - Used Juypyter Notebook to scrape full resolution of Mars's Hemispheres alongside its and names from the site: https://marshemispheres.com/' and stored them into a dictionary that was then added to our APP so it was displayed on our HTML page.
